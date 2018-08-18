@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IT News</string>
+
+
+    <string-array name="tab_item">
+        <item>热门话题</item>
+        <item>科技动态</item>
+        <item>开发者咨询</item>
+        <item>区块链咨询</item>
+    </string-array>
+    <string name="transition_photos">transition_animation_news_photos</string>
+    <string name="photo">girl</string>
+</resources>
